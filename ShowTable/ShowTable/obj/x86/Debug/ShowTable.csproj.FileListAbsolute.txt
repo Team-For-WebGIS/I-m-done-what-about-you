@@ -1,0 +1,9 @@
+E:\ShowTable\ShowTable\bin\Debug\ShowTable.exe
+E:\ShowTable\ShowTable\bin\Debug\ShowTable.pdb
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.csprojResolveAssemblyReference.cache
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.MainForm.resources
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.Properties.Resources.resources
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.csproj.GenerateResource.Cache
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.exe
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.pdb
+E:\ShowTable\ShowTable\obj\x86\Debug\ShowTable.FormTable.resources
