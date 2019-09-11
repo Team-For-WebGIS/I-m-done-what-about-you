@@ -1,0 +1,17 @@
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.MapViewForm.resources
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.Properties.Resources.resources
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\bin\x86\Debug\MapView.exe
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\bin\x86\Debug\MapView.pdb
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.exe
+D:\Amy\Course\GIS工程综合实习\GIS工程设计开发综合实习2013-实习材料\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.pdb
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.exe
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.pdb
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.MapViewForm.resources
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.Properties.Resources.resources
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.csproj.GenerateResource.Cache
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\bin\x86\Debug\MapView.exe
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\bin\x86\Debug\MapView.pdb
+D:\FeigeDownload\2019地理信息工程综合实习文档\例子程序\Part5\MapView\MapView\obj\x86\Debug\MapView.csprojResolveAssemblyReference.cache
